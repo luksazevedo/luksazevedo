@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Lucas
+### Hi👋,
 I´m Automation Engineer passionate about technologies and use code to solve problems.
 
 Graduate in Automation Engineering from the Federal University of Minas Gerais(UFMG). 
